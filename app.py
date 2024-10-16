@@ -13,7 +13,7 @@ from langchain_community.tools.sql_database.tool import QuerySQLDataBaseTool
 import os
 
 # OpenAI API Key
-key = "sk-C2nXGLsgbZf98BNEau0X6YkjaOVLmnAlZ5Z1FalPh8T3BlbkFJpgZawjZgPzU_cEeoXWbTmnNzMPdkn_2vS0vxY5zvEA"
+key = "sk-xcQhZATFIqLkA1xkTf8nlTnkj_Wp9SBzx-jFmLrp56T3BlbkFJFVVgEhSjdZXv1MdbkLgL4UnPHx9j_MHf2_6H8nSLsA"
 
 
 def database_from_sqlitefile(sql_file):
